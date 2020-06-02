@@ -1,4 +1,5 @@
 # WFDashedLine
+在Flutter根据传入的axis，来显示相应方向的虚线
 
 ```Dart
 WFDashedLine({
