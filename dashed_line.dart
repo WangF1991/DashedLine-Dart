@@ -13,7 +13,7 @@ class WFDashedLine extends StatelessWidget {
     this.dashedWidth = 10,
     this.dashedHieght = 1,
     this.count = 10,
-    this.color = Colors.grey,
+    this.color = const Color(0xffbbbbbb),
   }): assert(axis != null);
 
   @override
